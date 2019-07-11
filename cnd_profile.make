@@ -5,9 +5,6 @@ projects:
     version: ~
     patch:
       - "https://www.drupal.org/files/issues/2019-05-16/presave-only-content-entities-3055147.patch"
-  address:
-    version: ~
-    subdir: "contrib"
   admin_toolbar:
     version: ~
     subdir: "contrib"
